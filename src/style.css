@@ -4,13 +4,11 @@ body {
 }
 
 .box {
-  padding: 10px;
   background-color: #ddd;
 }
 
 .yellow_box {
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .red_border {
@@ -24,7 +22,10 @@ body {
 .blue_box {
   box-sizing: border-box;
   margin: 0 20px 40px;
-  padding: 10px;
   width: 350px;
   background-color: #308dc0;
+}
+
+.pading {
+  padding: 10px;
 }
