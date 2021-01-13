@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.box {
+  padding: 10px;
+  background-color: #ddd;
+  margin: 10px;
+
+}
+
+.yellow_box {
+  margin: 10px;
+  background-color: #ffa500;
+}
+
+.red_border {
+  border: 1px solid #e75551 ;
+}
+
+#qa-block {
+  margin-top: 20px;
+}
+
+.blue_box {
+  margin: 0 20px 40px;
+  width: 350px;
+  background-color: #308dc0;
+}
